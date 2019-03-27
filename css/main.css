@@ -209,7 +209,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
   border-bottom: 0px;
   -moz-border-radius: 4px 4px 0 0;
   -webkit-border-radius: 4px 4px 0 0;
-  margin-right:10px; 
+  margin-right:1px; 
 }
 
 .tab a {
@@ -228,7 +228,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 }
 
 .tab.active {
-  background: #fff;
+  background: #eee;
   position: relative;
   top: 1px;
   border-color: #f1f1f1;
