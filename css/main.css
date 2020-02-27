@@ -118,7 +118,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 /* Wrapper */
 .main{
   padding-top: 50px;
-  max-width: 1020px;
+  max-width: 2040px;
 }
 .wrapper{
   margin: 0 auto;
@@ -675,7 +675,7 @@ Change widths as necessary
    border-left: 1px solid #f1f1f1;
  }
  /* COLUMN GRID */
- .g1,.g2,.g3 {display:inline; float: left}
+ .g1,.g2,.g3 {display:inline; float: left;}
 
  /* 2 COLUMN GRID */
  .g1 {width:48.0%}
