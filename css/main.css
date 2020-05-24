@@ -345,7 +345,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 }
 .jobdescription li{
 	border-bottom: None;
-	margin-bottom: None;
+	margin-bottom: 0;
 	list-style-position: outside;
 	margin-bottom: 0;
 }
