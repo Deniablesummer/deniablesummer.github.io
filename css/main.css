@@ -343,10 +343,11 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 	border-bottom: 1px solid #f1f1f1;
 	margin-bottom: 2em;
 }
-. li{
+.jobdescription li{
 	border-bottom: None;
 	margin-bottom: None;
 	list-style-position: outside;
+	margin-bottom: 0;
 }
 .work li span{
   float: right;
