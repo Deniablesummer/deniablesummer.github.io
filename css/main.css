@@ -66,6 +66,12 @@ li ul, li ol {margin: 0 1.5em}
 dl dd {margin-left: 1.5em}
 dt {font-family:Futura, "Century Gothic", AppleGothic, sans-serif}
 
+.jobdescription li.jobdescription{
+	margin: 0;
+	border-bottom: None;
+	list-style-position: outside;
+}
+
 /* HYPERLINKS */
 a { 
   text-decoration: none;
